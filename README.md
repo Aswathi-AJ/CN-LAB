@@ -11,24 +11,24 @@
 
 ## 📚 Exercises Included
 
-### ✅ Exercise 2 – HTTP Web Client
+###  HTTP Web Client
 - **Aim**: To download a webpage using TCP sockets.
 - **File**: `HTTPClient.java`
 
-### ✅ Exercise 3(a) – Echo Server & Client
+###  Echo Server & Client
 - **Aim**: To send and receive back messages (echo).
 - **Files**: `EchoServer.java`, `EchoClient.java`
 
-### ✅ Exercise 3(b) – Chat Application
+###  Chat Application
 - **Aim**: To implement two-way communication.
 - **Files**: `ChatServer.java`, `ChatClient.java`
 
-### ✅ Exercise 3(c) – File Transfer
+###  File Transfer
 - **Aim**: Send file from client to server.
 - **Files**: `FileClient.java`, `FileServer.java`
 - **Sample File**: `sample.txt`
 
-### ✅ DNS Simulation – UDP Sockets
+###  DNS Simulation – UDP Sockets
 - **Aim**: Simulate DNS query and response using UDP.
 - **Files**: `DNSClient.java`, `DNSServer.java`
 
