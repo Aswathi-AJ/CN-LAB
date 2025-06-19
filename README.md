@@ -3,8 +3,7 @@
 📁 Contains all lab exercises for **Computer Networks Lab (Java-based)**
 
 ## Student Details
-- **Name**: Aswath
-- **Register Number**: 2117230020022
+- **Name**: Aswathi AJ
 - **IDE Used**: Visual Studio Code
 - **Language**: Java (JDK 21)
 
